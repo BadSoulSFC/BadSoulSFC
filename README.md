@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BadSoulSFC
 - 👀 I’m interested in weapons?
-- 🌱 I’m currently learning Java, C#, html, css, javascript
+- 🌱 I’m currently learning Java, C# and C++
 - 📫 How to reach me: you can contact me via discord or telegram - Discord: BadSoul#0691 \ Telegram: @BadSoulSFC
 
 <!---
