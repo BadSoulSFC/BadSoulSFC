@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BadSoulSFC
+- 👀 I’m interested in Java development?
+- 🌱 I’m currently learning Java,  git
+- 📫 How to reach me: you can contact me via discord or telegram - Discord: BadSoul#0691 \ Telegram: @BadSoulSFC
