@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @BadSoulSFC
-- 👀 I’m interested in C#
-- 🌱 And currently learning it
 - 📫 How to reach me: you can contact me via discord - Discord: BadSoul#0691
