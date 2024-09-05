@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @BadSoulSFC
-- 📫 How to reach me: you can contact me via discord - Discord: BadSoul#0691
